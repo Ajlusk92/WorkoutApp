@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Reg Park Cut Coach",
+    "slug": "reg-park-cut-coach",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ajlusk92.regparkcutcoach"
+    },
+    "android": {
+      "package": "com.ajlusk92.regparkcutcoach"
+    }
+  }
+}
